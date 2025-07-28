@@ -1,3 +1,11 @@
-"scripts": {
-  "start": "node index.js"
+{
+  "name": "node-hello-ci",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for Docker + CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "mounir7777",
+  "license": "MIT"
 }
